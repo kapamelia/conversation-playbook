@@ -10,6 +10,7 @@
 [![Entries](https://img.shields.io/badge/entries-92-orange.svg)](#)
 [![Categories](https://img.shields.io/badge/categories-18-9cf.svg)](#)
 [![Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](#)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 </div>
 
@@ -181,7 +182,9 @@ python scripts/lookup.py --files           # 以文件为单位列出标题
 
 ## License
 
-发布前请在仓库根目录补充 `LICENSE` 文件（推荐 MIT）。
+本项目采用 [MIT 许可证](LICENSE) 发布。
+
+Copyright (c) 2026 kapamelia
 
 <div align="center">
 
