@@ -113,7 +113,7 @@
 ### 安装
 
 ```bash
-git clone <your-repo-url> ~/.workbuddy/skills/conversation-playbook
+git clone https://github.com/kapamelia/conversation-playbook.git ~/.workbuddy/skills/conversation-playbook
 ```
 
 将本项目放入你的 skills 目录即可。作为 CodeBuddy / WorkBuddy skill 使用时，加载 `SKILL.md` 后即可按处境调用。
